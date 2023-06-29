@@ -26,11 +26,11 @@ Java | MySQL | HTML5 | CSS3<br><br>
 <p>De acordo com o quadro do trello abaixo, todos os critérios de teste foram cumpridos.</p>
 <h3><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/trello_logo_icon_167765.png" alt="Trello Logo" width="19px"><a href="https://trello.com/b/f9KCAQdG/aprimoramento-da-agenda"> Trello</a></h3>
 
-
-
+<h2>Slides de Apresentação</h2>
+<img src="https://images.freeimages.com/fic/images/icons/2795/office_2013_hd/2000/powerpoint.png" alt="PowerPoint Logo" width="100px">PowerPoint: (https://github.com/EnzowMb/Sistema_Agenda_EnzoMb_DW1/files/11901005/Apresentacao.do.Sistema.de.Agenda.pptx)<br><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/833px-PDF_file_icon.svg.png" alt="PDF Logo" width="80px">PDF: (https://github.com/EnzowMb/Sistema_Agenda_EnzoMb_DW1/files/11901011/Apresentacao.do.Sistema.de.Agenda.pdf)<hr>
 <br>
 <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/1200px-Apache_Tomcat_logo.svg.png" alt="Tomcat" width="300px">
 <br>
 Versão do Tomcat utilizado: 10.0.27
-
